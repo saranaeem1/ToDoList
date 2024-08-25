@@ -14,3 +14,6 @@ Design Link: https://www.figma.com/design/7nqokBWoxxjwcvNizlzHhu/Phase-2-Project
 - Delete tasks
 - Mark tasks as completed
 - Tasks persist in local storage
+
+## Netlify Deployment Link
+https://stunning-dragon-f94298.netlify.app/
